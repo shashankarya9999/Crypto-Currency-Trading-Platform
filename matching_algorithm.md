@@ -1,5 +1,5 @@
 ### Matching Algorithm
-
+```
 asks = orderbook.asks
 bids = orderbook.bids
 
@@ -42,3 +42,4 @@ for ask in asks:
                 bid.amount = 0  # make sure the bid is not processed again
                 # some ask remains so go to the next bid
                 continue
+```
