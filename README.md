@@ -14,7 +14,7 @@ After compiling and running, it reads in the CSV data and identifies any bad row
 Current time is: 2020/03/17 17:01:24.884492
 Type in 1-6
 ```
-Print help - prints a help message
+Print help - prints a help message<br>
 Print exchange stats: The platform analyzes all the available things in the order book for the current time frame, and it prints out what the minimum and maximum for each pair is. If you're looking to snag a good deal, you'd likely want to set your buying offer at that price. That's the lowest price you'll find for it. 
 I've made up my mind to sell something, so the first step is to determine if I have anything to sell. By checking my wallet, I can see what I currently have available. To check contents of wallet, we press "5".
 Make an offer: shows this line
